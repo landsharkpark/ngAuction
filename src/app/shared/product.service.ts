@@ -17,6 +17,7 @@ export class Product {
 
 }
 
+@Injectable()
 export class ProductService {
 
   getProducts(): Product[] {
