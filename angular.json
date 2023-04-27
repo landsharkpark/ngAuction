@@ -145,5 +145,8 @@
       }
     }
   },
-  "defaultProject": "ngAuction"
+  "defaultProject": "ngAuction",
+  "cli": {
+    "analytics": false
+  }
 }
